@@ -9,7 +9,7 @@ mouse-pointer-tools is a react component that provides a toolkit for tracking th
 ``` javascript
 var React         = require('react');
 var ReactDOM      = require('react-dom');
-var PointerTools  = require('mouse-pointer-tools');
+var PointerTools  = require('react-mouse-pointer-tools');
 var rootElement   = document.body.getElementById("wrapper");
 
 ReactDOM.render(
