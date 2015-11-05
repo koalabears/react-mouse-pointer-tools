@@ -1,23 +1,23 @@
 {
-"name": "react-mouse-pointer-tools",
-"description": "toolkit that allows you to track the mouse and create rulers",
-"author": "koalabears koalabears1000@gmail.com (http://github.com/koalabears)",
-"license": "MIT",
-"version": "0.1.0",
-"main": "react-mouse-pointer-tools.js",
-"scripts": {
-"build": "jsx react-mouse-pointer-tools.jsx > react-mouse-pointer-tools.js",
-"prepublish": "npm run build"
-},
-"browserify": {
-"transform": [
-"reactify"
-]
-},
-"devDependencies": {
-"react-tools": "^0.13.3"
-},
-"dependencies": {
-"react": "^0.14.2"
-}
+  "name": "react-mouse-pointer-tools",
+  "description": "toolkit that allows you to track the mouse and create rulers",
+  "author": "koalabears koalabears1000@gmail.com (http://github.com/koalabears)",
+  "license": "MIT",
+  "version": "0.1.1",
+  "main": "react-mouse-pointer-tools.js",
+  "scripts": {
+    "build": "jsx react-mouse-pointer-tools.jsx > react-mouse-pointer-tools.js",
+    "prepublish": "npm run build"
+  },
+  "browserify": {
+    "transform": [
+      "reactify"
+    ]
+  },
+  "devDependencies": {
+    "react-tools": "^0.13.3"
+  },
+  "dependencies": {
+    "react": "^0.14.2"
+  }
 }
