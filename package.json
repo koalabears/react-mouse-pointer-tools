@@ -3,7 +3,7 @@
   "description": "toolkit that allows you to track the mouse and create rulers",
   "author": "koalabears koalabears1000@gmail.com (http://github.com/koalabears)",
   "license": "MIT",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "react-mouse-pointer-tools.js",
   "scripts": {
     "build": "jsx react-mouse-pointer-tools.jsx > react-mouse-pointer-tools.js",
