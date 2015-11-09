@@ -19,5 +19,12 @@
   },
   "dependencies": {
     "react": "^0.14.2"
-  }
+  },
+  "keywords": [
+    "react",
+    "mouse",
+    "coordinates",
+    "rulers",
+    "tool"
+  ]
 }
