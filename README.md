@@ -2,8 +2,9 @@
 
 [![npm version](https://badge.fury.io/js/react-mouse-pointer-tools.svg)](https://badge.fury.io/js/react-mouse-pointer-tools)
 
-Here's a link to the project on GitHub: https://github.com/koalabears/react-mouse-pointer-tools  
-Here's a link to the module on npm: https://www.npmjs.com/package/react-mouse-pointer-tools
+GitHub: https://github.com/koalabears/react-mouse-pointer-tools  
+npm: https://www.npmjs.com/package/react-mouse-pointer-tools
+react-components: http://react-components.com/component/react-mouse-pointer-tools
 
 react-mouse-pointer-tools is a react component that provides a toolkit for tracking the pointer position of the mouse. The toolkit provides both the x and y coordinates printed beside the pointer as well as optional horizontal and vertical rules for precision tracking. The colour of the lines and coordinates are customisable with the props **_see the example use case below_**
 
