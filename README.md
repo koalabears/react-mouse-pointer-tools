@@ -33,3 +33,4 @@ ReactDOM.render(
 
 * Styling tool for web app layout
 * User screen tracking
+* Potential for gamifying
