@@ -10,7 +10,7 @@ react-mouse-pointer-tools is a react component that provides a toolkit for track
 
 ![gif](https://cloud.githubusercontent.com/assets/12450298/10974076/3d789f12-83d8-11e5-9798-e4e2107a735d.gif)
 
-## Example of how to use - add this code to your main.js file
+## Example of how to use -> add this code to your main.js file
 
 ``` javascript
 var React         = require('react');
