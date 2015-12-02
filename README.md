@@ -29,7 +29,7 @@ ReactDOM.render(
 | showRulers | true | boolean | displays/hides rulers|
 | color | 'black' | string | changes the colour of rulers and coordinates |
 
-### Why would you use it?
+### Why would you want to use it?
 
 * Styling tool for web app layout
 * User screen tracking
